@@ -1,8 +1,8 @@
-version: 21.11.20-708
+version: 0.0.5-21.11.20-871
 files:
-  - url: SimpleMMO-Hub-Setup-21.11.20-708.exe
-    sha512: VFFKH6lB19IIlkA/znmmSkdSdfaMQ8jhGprVrjtx5kKatMvzu+eqm4y6Jbnh9apaAqZ6tY6bP22J1Y+wubaMrA==
-    size: 69239593
-path: SimpleMMO-Hub-Setup-21.11.20-708.exe
-sha512: VFFKH6lB19IIlkA/znmmSkdSdfaMQ8jhGprVrjtx5kKatMvzu+eqm4y6Jbnh9apaAqZ6tY6bP22J1Y+wubaMrA==
-releaseDate: '2021-11-20T11:49:44.457Z'
+  - url: SimpleMMO-Hub-Setup-0.0.5-21.11.20-871.exe
+    sha512: 2x21CparP2CV6v4C9oRT8rhbF/TU8relcRwkiPX2LKml0O311U+nyO5L9D1MNvsfjJc01Qd8cwAET7Ji1x/IuQ==
+    size: 69239378
+path: SimpleMMO-Hub-Setup-0.0.5-21.11.20-871.exe
+sha512: 2x21CparP2CV6v4C9oRT8rhbF/TU8relcRwkiPX2LKml0O311U+nyO5L9D1MNvsfjJc01Qd8cwAET7Ji1x/IuQ==
+releaseDate: '2021-11-20T14:32:45.226Z'
