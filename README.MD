@@ -1,2 +1,4 @@
-# DOES NOT WORK
-## DO NOT DOWNLOAD YET, WORK IN PROGRESS
+# Simple MMO - App Hub
+##### Available only for patreons at this moment - [Join now](https://www.patreon.com/Y0mu)
+
+
