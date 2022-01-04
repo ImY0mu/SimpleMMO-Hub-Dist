@@ -10,10 +10,13 @@
 #### Includes
 - Newly rewritten Mobile Simulation
 - Newly rewritten Guild PvP Tool
+- Newly rewritten Chat Client
 - Modern and elegant design
 - Auto updater included
 #### Todo
-- Chat client
+- Mobile Simulation improvements
+- Chat improvements
+- Guild PvP Tool improvements
 #### Reports, Suggestions or Questions
 - Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/issues) in case you wanna suggest, report or ask something.
 
