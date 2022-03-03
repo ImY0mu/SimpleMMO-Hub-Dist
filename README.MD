@@ -1,4 +1,5 @@
 # Simple MMO - App Hub (Windows only)
+### Public release date is March 4th 2022.
 ##### Available only for patreons at this moment - [Join now](https://www.patreon.com/Y0mu)
 #### How to download and install
 - [Visit here for latest version](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/releases/latest)
@@ -17,6 +18,7 @@
 - Mobile Simulation improvements
 - Chat improvements
 - Guild PvP Tool improvements
+- Web client
 #### Reports, Suggestions or Questions
 - Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/issues) in case you wanna suggest, report or ask something.
 
