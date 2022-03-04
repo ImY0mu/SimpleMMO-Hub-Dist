@@ -24,7 +24,7 @@
 
 
 
-![New hub](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/appHub.png)
+![New hub](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/apphub_release.png)
 
 
 
