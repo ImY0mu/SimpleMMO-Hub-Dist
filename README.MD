@@ -21,10 +21,8 @@
 #### Reports, Suggestions or Questions
 - Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/issues) in case you wanna suggest, report or ask something.
 
+![App Hub](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/hub.png)
 
-
-![New hub](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/apphub_release.png)
-
-
-
-
+Mobile Simulation           |  Chat client
+:-------------------------:|:-------------------------:
+![Mobile Simulation](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/mobile.png)  |  ![Chat client](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/chat.png)
