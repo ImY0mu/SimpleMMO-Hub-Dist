@@ -7,6 +7,8 @@
 
 # Simple MMO - App Hub (Windows only)
 ##### [Support me at patreon](https://www.patreon.com/Y0mu)
+##### [Discord](https://discord.gg/fjGHE8Pa6t)
+
 #### How to download and install
 - [Visit here for latest version](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/releases/latest)
 - Download .exe from the page above
