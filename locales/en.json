@@ -17,7 +17,7 @@
   "3rd_party_licenses": "Third party licenses",
   "patreon_supporters": "Patreon Supporters",
   "supporters": "Supporters",
-  "become_a_patreon": "Become a patreon",
+  "become_a_patron": "Become a patron"
   "patreon": "Patreon",
   "patreon_benefits": "Patreon benefits",
   "patreon_benefits_notice": "You lose the benefits after the subscription ends",
@@ -88,7 +88,7 @@
   "accounts": "Accounts",
   "downloading_update": "Downloading update",
   "after_update_message": "Update has been downloaded. Installation will start once you fully close App Hub. Can take up to a minute and requires relaunch.",
-  "avatar_only": "Aavatar only",
+  "avatar_only": "Avatar only",
   "name_only": "Name only",
   "avatar_and_name": "Avatar + Name",
   "disable": "Disable",
