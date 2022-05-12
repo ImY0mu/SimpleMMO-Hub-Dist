@@ -46,7 +46,8 @@
   "ui_improvements_desc": "Změní některé UI části ve hře",
   "points_notification": "Upozornění na energii a questové body",
   "points_notification_desc": "Upozorní vás, pokud jsou některé body plné",
-
+  "events_notification": "Upozornění na oznámení a zprávy",
+  "events_notification_desc": "Upozorní vás, pokud dostanete novou zprávu či oznámení",
 
 
   "level_up_on_next_loaded_page": "Načtěte libovolnou stránku ve hře a posunete se o úroveň výš",
