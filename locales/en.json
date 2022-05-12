@@ -46,7 +46,7 @@
   "points_notification": "Energy and Quest points notification",
   "points_notification_desc": "Notifies you in case any points are full",
   "events_notification": "Notifications and Messages notification",
-  "events_notification_desc": "Notifies you in case you receive a message or notification",
+  "events_notification_desc": "Notifies you in case you receive a message or a notification",
 
   "level_up_on_next_loaded_page": "Load any page in the game to level up",
   "friends": "Friends",
