@@ -17,21 +17,55 @@
 ###### It will ask for Firewall permission at launch, it is not required, but it may not support outside 3rd party tool support for WebSockets
 
 #### Includes
-- Newly rewritten Mobile Simulation
-- Newly rewritten Guild PvP Tool
-- Newly rewritten Chat Client
+- Notificiations for Quest points, energy, in-game messages and notifications
+- Mobile Simulation, Chat Client, Guild PvP Tool
 - Modern and elegant design
 - Auto updater included
-#### Todo
-- Mobile Simulation improvements
-- Chat improvements
-- Guild PvP Tool improvements
-- Web client
+
 #### Reports, Suggestions or Questions
 - Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/issues) in case you wanna suggest, report or ask something.
 
 ![SMMO App Hub](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/hub.png)
 
-Mobile Simulation           |  Chat client
-:-------------------------:|:-------------------------:
-![Mobile Simulation](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/mobile.png)  |  ![Chat client](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/chat.png)
+## Mobile Simulation
+Enjoy the experience of SimpleMMO at your computer. Simple yet smooth, just the way you are used to.
+
+<b>Features</b>
+- Keybinds
+- Temple worship timer
+- Step Mode
+Better than ever to keep the authentic SimpleMMO feeling.
+
+![Mobile Simulation](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/mobile.png)
+
+
+
+## Chat Client
+Keep in touch with your SimpleMMO friends and enemies alike with enhanced chat options. Whether you're in-game or busy working, stay in the loop, find the best deals, and hit your mark more easily than ever.
+
+<b>Features</b>
+- Username right click functionality, including quick access to player profiles
+- Username left click functionality to easily tag other players
+- Item click functionality, including full access to item information without leaving chat
+- Windows notifications when other players ping you
+- Disabled chat auto-update when reading old messages to prevent interruptions
+- Full access to chat outside of SimpleMMO
+- Overall improved ease of use
+- Better than ever to keep the authentic SimpleMMO feeling.
+Chat Client is everything you've wanted in SimpleMMO's chat, and now it's here.
+
+![Chat client](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/chat.png)
+
+
+## Guild PVP Tool
+Hug your friends and enemies alike with Guild PvP Tool.
+
+<b>Features</b>
+- Automated guild wars list
+- Mark players as banned
+- Export/Import your banned list
+- Blacklist players from your search
+- Filter
+- Additional API key support
+- Two-Part generation of targets to avoid rate limit
+Make it quick and save your time.
