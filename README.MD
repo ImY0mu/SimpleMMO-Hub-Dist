@@ -22,6 +22,11 @@
 - Modern and elegant design
 - Auto updater included
 
+<b>Languages</b>
+- English by Y0mu
+- Czech by Y0mu
+- Spanish by Luis 'Eddie' Sendin
+
 #### Reports, Suggestions or Questions
 - Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/issues) in case you wanna suggest, report or ask something.
 
@@ -35,11 +40,6 @@ Enjoy the experience of SimpleMMO at your computer. Simple yet smooth, just the 
 - Temple worship timer
 - Step Mode
 Better than ever to keep the authentic SimpleMMO feeling.
-
-<b>Languages</b>
-- English by Y0mu
-- Czech by Y0mu
-- Spanish by Luis 'Eddie' Sendin
 
 ![Mobile Simulation](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/mobile.png)
 
