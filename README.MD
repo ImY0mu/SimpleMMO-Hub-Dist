@@ -17,6 +17,7 @@
 ###### It will ask for Firewall permission at launch, it is not required, but it may not support outside 3rd party tool support for WebSockets
 
 #### Includes
+
 - Notificiations for Quest points, energy, in-game messages and notifications
 - Mobile Simulation, Chat Client, Guild PvP Tool
 - Modern and elegant design
@@ -27,8 +28,17 @@
 - Czech by Y0mu
 - Spanish by Luis 'Eddie' Sendin
 
+#### Extensions
+
+You can create your own extension that can run within App hub:
+- [Pure HTML, CSS & JS template](https://github.com/ImY0mu/hub-app_template_pure)
+- [VueJS & WindiCSS template](https://github.com/ImY0mu/hub-app_template)
+
+*Future improvements to the feature are planned, just waiting for more extensions to exist.*
+
 #### Reports, Suggestions or Questions
-- Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/issues) in case you wanna suggest, report or ask something.
+
+Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/issues) in case you wanna suggest, report or ask something.
 
 ![SMMO App Hub](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/hub.png)
 
@@ -42,8 +52,6 @@ Enjoy the experience of SimpleMMO at your computer. Simple yet smooth, just the 
 Better than ever to keep the authentic SimpleMMO feeling.
 
 ![Mobile Simulation](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/mobile.png)
-
-
 
 ## Chat Client
 Keep in touch with your SimpleMMO friends and enemies alike with enhanced chat options. Whether you're in-game or busy working, stay in the loop, find the best deals, and hit your mark more easily than ever.
@@ -61,8 +69,8 @@ Chat Client is everything you've wanted in SimpleMMO's chat, and now it's here.
 
 ![Chat client](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/chat.png)
 
-
 ## Guild PVP Tool
+
 Hug your friends and enemies alike with Guild PvP Tool.
 
 <b>Features</b>
