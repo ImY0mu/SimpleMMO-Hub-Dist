@@ -89,7 +89,7 @@
   "steps_taken": "Pasos dados",
   "accounts": "Cuentas",
   "downloading_update": "Descargando actualización",
-  "after_update_message": "Se ha descargado la actualización. La instalación comenzará cuando se cierre App Hub por completo. Puede llevar unos minutos y requiere reiniciar la aplicación.",
+  "after_update_message": "Se ha descargado la actualización. La instalación comenzará cuando se cierre App Hub por completo.",
   "avatar_only": "Solo avatar",
   "name_only": "Solo nombre",
   "avatar_and_name": "Avatar + nombre",
@@ -144,5 +144,21 @@
 
   "tier_one": "Rango 1",
   "tier_two": "Rango 2",
-  "tier_three": "Rango 3"
+  "tier_three": "Rango 3",
+
+
+
+  "extensions": "Extensiones",
+  "leaderboard": "Leaderboard",
+
+  "last_used": "Last used",
+  "time_spent": "Time spent",
+  "total_users": "Total users",
+  "hours": "hours",
+  "hour": "hour",
+  "minutes": "minutes",
+  "minute": "minute",
+
+  "do_you_wish_to_hide_the_hub_or_close_all_windows": "Hide the hub or close all windows?",
+  "are_you_sure_you_want_to_sign_out": "Are you sure you want to sing out?"
 }
