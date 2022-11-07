@@ -50,6 +50,7 @@
   "events_notification_desc": "Upozorní vás, pokud dostanete novou zprávu či oznámení",
 
 
+
   "level_up_on_next_loaded_page": "Načtěte libovolnou stránku ve hře a posunete se o úroveň výš",
   "friends": "Přátelé",
   "disabled": "Zakázáno",
@@ -90,7 +91,7 @@
   "steps_taken": "Podniknutých kroků",
   "accounts": "Účty",
   "downloading_update": "Stahování aktualizace",
-  "after_update_message": "Aktualizace byla stažena. Instalace započte po ukončení App Hubu. Může to trvat až minutu a je zapotřebí jej znovu zapnout.",
+  "after_update_message": "Aktualizace byla stažena. Instalace započte po ukončení App Hubu.",
   "avatar_only": "Pouze avatar",
   "name_only": "Pouze jméno",
   "avatar_and_name": "Avatar + jméno",
@@ -145,5 +146,21 @@
 
   "tier_one": "Úroveň 1",
   "tier_two": "Úroveň 2",
-  "tier_three": "Úroveň 3"
+  "tier_three": "Úroveň 3",
+
+
+
+  "extensions": "Rozšíření",
+  "leaderboard": "Žebříček",
+
+  "last_used": "Naposledy použito",
+  "time_spent": "Strávený čas",
+  "total_users": "Celkem uživatelů",
+  "hours": "hodin",
+  "hour": "hodina",
+  "minutes": "minut",
+  "minute": "minuta",
+
+  "do_you_wish_to_hide_the_hub_or_close_all_windows": "Schovat Hub nebo úplně zavřít?",
+  "are_you_sure_you_want_to_sign_out": "Opravdu se chcete odhlásit?"
 }
