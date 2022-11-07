@@ -17,7 +17,7 @@
   "3rd_party_licenses": "Third party licenses",
   "patreon_supporters": "Patreon Supporters",
   "supporters": "Supporters",
-  "become_a_patron": "Become a patron"
+  "become_a_patron": "Become a patron",
   "patreon": "Patreon",
   "patreon_benefits": "Patreon benefits",
   "patreon_benefits_notice": "You lose the benefits after the subscription ends",
@@ -47,6 +47,7 @@
   "points_notification_desc": "Notifies you in case any points are full",
   "events_notification": "Notifications and Messages notification",
   "events_notification_desc": "Notifies you in case you receive a message or a notification",
+
 
   "level_up_on_next_loaded_page": "Load any page in the game to level up",
   "friends": "Friends",
@@ -88,7 +89,7 @@
   "steps_taken": "Steps taken",
   "accounts": "Accounts",
   "downloading_update": "Downloading update",
-  "after_update_message": "Update has been downloaded. Installation will start once you fully close App Hub. Can take up to a minute and requires relaunch.",
+  "after_update_message": "Update has been downloaded. Installation will start once you fully close App Hub.",
   "avatar_only": "Avatar only",
   "name_only": "Name only",
   "avatar_and_name": "Avatar + Name",
@@ -128,8 +129,6 @@
   "overall_imporvements": "Overall improved ease of use",
   "chat_client_end_line": "Chat Client is everything you've wanted in SimpleMMO's chat, and now it's here.",
 
-
-
   "gpvp_client_desc": "Hug your friends and enemies alike with Guild PvP Tool.",
   "guild_wars": "Automated guild wars list",
   "banned_list": "Mark players as banned",
@@ -140,8 +139,22 @@
   "partial_generation": "Two-Part generation of targets to avoid rate limit",
   "gpvp_client_end_line": "Make it quick and save your time.",
 
-
   "tier_one": "Tier 1",
   "tier_two": "Tier 2",
-  "tier_three": "Tier 3"
+  "tier_three": "Tier 3",
+
+  "extensions": "Extensions",
+  "leaderboard": "Leaderboard",
+
+  "last_used": "Last used",
+  "time_spent": "Time spent",
+  "total_users": "Total users",
+  "hours": "hours",
+  "hour": "hour",
+  "minutes": "minutes",
+  "minute": "minute",
+
+  "do_you_wish_to_hide_the_hub_or_close_all_windows": "Hide the hub or close all windows?",
+  "are_you_sure_you_want_to_sign_out": "Are you sure you want to sing out?"
+
 }
