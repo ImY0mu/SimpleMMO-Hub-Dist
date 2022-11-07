@@ -17,7 +17,7 @@
   "3rd_party_licenses": "Giấy phép của bên thứ ba",
   "patreon_supporters": "Người ủng hộ Patreon",
   "supporters": "Người ủng hộ",
-  "become_a_patron": "Trở thành một patron"
+  "become_a_patron": "Trở thành một patron",
   "patreon": "Patreon",
   "patreon_benefits": "Lợi ích của Patreon",
   "patreon_benefits_notice": "Bạn mất các lợi ích sau khi thành viên kết thúc",
@@ -143,5 +143,19 @@
 
   "tier_one": "Bậc 1",
   "tier_two": "Bậc 2",
-  "tier_three": "Bậc 3"
+  "tier_three": "Bậc 3",
+
+  "extensions": "Extensiones",
+  "leaderboard": "Leaderboard",
+
+  "last_used": "Last used",
+  "time_spent": "Time spent",
+  "total_users": "Total users",
+  "hours": "hours",
+  "hour": "hour",
+  "minutes": "minutes",
+  "minute": "minute",
+
+  "do_you_wish_to_hide_the_hub_or_close_all_windows": "Hide the hub or close all windows?",
+  "are_you_sure_you_want_to_sign_out": "Are you sure you want to sing out?"
 }
