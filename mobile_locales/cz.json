@@ -110,5 +110,10 @@
   "accepted": "Přijato",
   "implemented": "Realizováno",
   "ongoing": "Trvající",
-  "denied": "Zamítnuto"
+  "denied": "Zamítnuto",
+  "yours": "Tvoje",
+  "starred": "Zahvězdované",
+
+
+  "library": "Knihovna"
 }

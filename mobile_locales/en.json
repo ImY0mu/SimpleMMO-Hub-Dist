@@ -80,7 +80,7 @@
   "shields": "Shields",
   "greaves": "Greaves",
   "boots": "Boots",
-  "helmets": "Belmets",
+  "helmets": "Helmets",
   "materials": "Materials",
 
 
@@ -111,5 +111,10 @@
   "accepted": "Accepted",
   "implemented": "Implemented",
   "ongoing": "Ongoing",
-  "denied": "Denied"
+  "denied": "Denied",
+  "yours": "Yours",
+  "starred": "Starred",
+
+
+  "library": "Library"
 }
