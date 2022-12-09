@@ -146,9 +146,7 @@
   "tier_two": "Rango 2",
   "tier_three": "Rango 3",
 
-
-
-  "extensions": "Extensiones",
+  "extensions": "Extensions",
   "leaderboard": "Leaderboard",
 
   "last_used": "Last used",
@@ -160,5 +158,21 @@
   "minute": "minute",
 
   "do_you_wish_to_hide_the_hub_or_close_all_windows": "Hide the hub or close all windows?",
-  "are_you_sure_you_want_to_sign_out": "Are you sure you want to sing out?"
+  "are_you_sure_you_want_to_sign_out": "Are you sure you want to sing out?",
+
+  "proxy": "Proxy",
+  "proxy_desc": "Change your proxy connection settings",
+
+
+  "discord_rich_presence": "Discord Rich Presence",
+  "discord_rich_presence_desc": "Shows your activity at Discord",
+
+  
+  "network": "Network",
+  "mobile_port": "Mobile Client Port",
+  "chat_port": "Chat Client Port",
+  "web_port": "Web Client Port",
+  "gpvp_port": "Gpvp Client Port",
+  "port_desc": "Changes port on which the client runs"
+
 }
