@@ -26,7 +26,9 @@
 <b>Languages</b>
 - English by Y0mu
 - Czech by Y0mu
-- Spanish by Luis 'Eddie' Sendin
+- Spanish by @eddieilish (Luis 'Eddie' Sendin)
+- Vietnam by @phong322010
+- French by @Cypral
 
 #### Extensions
 
@@ -76,9 +78,16 @@ Hug your friends and enemies alike with Guild PvP Tool.
 <b>Features</b>
 - Automated guild wars list
 - Mark players as banned
-- Export/Import your banned list
 - Blacklist players from your search
 - Filter
 - Additional API key support
 - Two-Part generation of targets to avoid rate limit
 Make it quick and save your time.
+
+
+## Web Client
+
+Simple browser made for the web version of SimpleMMO.
+
+<b>Features</b>
+- Basic browser features like tabs and navigation hotkeys
