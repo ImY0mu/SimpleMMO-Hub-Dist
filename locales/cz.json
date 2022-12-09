@@ -162,5 +162,20 @@
   "minute": "minuta",
 
   "do_you_wish_to_hide_the_hub_or_close_all_windows": "Schovat Hub nebo úplně zavřít?",
-  "are_you_sure_you_want_to_sign_out": "Opravdu se chcete odhlásit?"
+  "are_you_sure_you_want_to_sign_out": "Opravdu se chcete odhlásit?",
+
+  "proxy": "Proxy",
+  "proxy_desc": "Změňte nastavení připojení proxy",
+
+  
+  "discord_rich_presence": "Discord Rich Presence",
+  "discord_rich_presence_desc": "Ukáže vaši aktivitu na Discordu",
+
+  
+  "network": "Síť",
+  "mobile_port": "Port Mobilníno Klienta",
+  "chat_port": "Port Chatovacího Klienta",
+  "web_port": "Port Webového Klienta",
+  "gpvp_port": "Port GPVP Klienta",
+  "port_desc": "Změní port, na kterém klient běží"
 }
