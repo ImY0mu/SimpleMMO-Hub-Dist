@@ -44,10 +44,16 @@
   "beta_desc": "Je zapotřebí oprávnění developera hry",
   "ui_improvements": "Zlepšení UI",
   "ui_improvements_desc": "Změní některé UI části ve hře",
-  "points_notification": "Upozornění na energii a questové body",
-  "points_notification_desc": "Upozorní vás, pokud jsou některé body plné",
-  "events_notification": "Upozornění na oznámení a zprávy",
-  "events_notification_desc": "Upozorní vás, pokud dostanete novou zprávu či oznámení",
+
+  "points_notification_old": "Upozornění na energii a questové body",
+  "points_notification_desc_old": "Upozorní vás, pokud jsou některé body plné",
+  "events_notification_old": "Upozornění na oznámení a zprávy",
+  "events_notification_desc_old": "Upozorní vás, pokud dostanete novou zprávu či oznámení",
+
+  "points_notification": "Zkontroluje stav energie a úkolových bodů",
+  "points_notification_desc": "Jak často by se měla oznámení ukazovat",
+  "events_notification": "Zkontroluje stav oznámení a zpráv",
+  "events_notification_desc": "Jak často by se měla oznámení ukazovat",
 
 
 
@@ -177,5 +183,17 @@
   "chat_port": "Port Chatovacího Klienta",
   "web_port": "Port Webového Klienta",
   "gpvp_port": "Port GPVP Klienta",
-  "port_desc": "Změní port, na kterém klient běží"
+  "port_desc": "Změní port, na kterém klient běží",
+
+  "messages_notifications": "Upozornění na zprávy",
+  "quests_notifications": "Upozornění na úkolové body",
+  "energy_notifications": "Upozornění na body energie",
+  "notifications_notifications": "Upozornění na upozornění",
+
+  "notifications": "Upozornění",
+  "close_on_exit": "Ukončit při zavření",
+  "close_on_exit_desc": "Přeskočte vyskakovací okno a ukončit aplikaci",
+  "hub_hidden_notification": "Upozornění na skryté okno",
+  "hub_hidden_notification_desc": "Upozornění, když skryjete App Hub"
+  
 }
