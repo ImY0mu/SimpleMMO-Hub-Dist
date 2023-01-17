@@ -43,10 +43,16 @@
   "beta_desc": "Requiere permiso del desarrollador",
   "ui_improvements": "Mejoras en la IU",
   "ui_improvements_desc": "Cambia algunas partes de la interfaz en el juego",
-  "points_notification": "Notificación de puntos de Energía y de Misión",
-  "points_notification_desc": "Te notifica cuando cualquiera de los puntos alcance su máximo",
-  "events_notification": "Notificación de Mensajes y Notificaciones",
-  "events_notification_desc": "Te notifica cuando recibes un mensaje o una notificación",
+
+  "points_notification_old": "Notificación de puntos de Energía y de Misión",
+  "points_notification_desc_old": "Te notifica cuando cualquiera de los puntos alcance su máximo",
+  "events_notification_old": "Notificación de Mensajes y Notificaciones",
+  "events_notification_desc_old": "Te notifica cuando recibes un mensaje o una notificación",
+
+  "points_notification": "Check energy and quest points status",
+  "points_notification_desc": "How often should the notifications be shown",
+  "events_notification": "Check notifications and messages status",
+  "events_notification_desc": "How often should the notifications be shown",
 
 
   "level_up_on_next_loaded_page": "Carga cualquier página en el juego para subir de nivel",
@@ -173,6 +179,17 @@
   "chat_port": "Chat Client Port",
   "web_port": "Web Client Port",
   "gpvp_port": "Gpvp Client Port",
-  "port_desc": "Changes port on which the client runs"
+  "port_desc": "Changes port on which the client runs",
+
+  "messages_notifications": "Messages notifications",
+  "quests_notifications": "Quests notifications",
+  "energy_notifications": "Energy notifications",
+  "notifications_notifications": "Notifications notifications",
+
+  "notifications": "Notifications",
+  "close_on_exit": "Close on exit",
+  "close_on_exit_desc": "Skip the popup and just exit the App hub",
+  "hub_hidden_notification": "Hidden window notification",
+  "hub_hidden_notification_desc": "Notification when you hide App hub"
 
 }
