@@ -50,10 +50,10 @@
   "events_notification_desc_old": "Thông báo cho bạn trong trường hợp bạn nhận được tin nhắn hoặc thông báo",
 
   
-  "points_notification": "Check energy and quest points status",
-  "points_notification_desc": "How often should the notifications be shown",
-  "events_notification": "Check notifications and messages status",
-  "events_notification_desc": "How often should the notifications be shown",
+  "points_notification": "Thông báo điểm năng lượng và nhiệm vụ",
+  "points_notification_desc": "Các thông báo nên được hiển thị với tần suất như thế nào?",
+  "events_notification": "Thông báo thông báo và tin nhắn",
+  "events_notification_desc": "Các thông báo nên được hiển thị với tần suất như thế nào?",
 
   "level_up_on_next_loaded_page": "Tải bất kỳ trang nào trong trò chơi để lên cấp",
   "friends": "Bạn bè",
@@ -152,43 +152,43 @@
   "tier_two": "Bậc 2",
   "tier_three": "Bậc 3",
 
-  "extensions": "Extensions",
-  "leaderboard": "Leaderboard",
+  "extensions": "Phần mở rộng",
+  "leaderboard": "Bảng xếp hạng",
 
-  "last_used": "Last used",
-  "time_spent": "Time spent",
-  "total_users": "Total users",
-  "hours": "hours",
-  "hour": "hour",
-  "minutes": "minutes",
-  "minute": "minute",
+  "last_used": "Lần cuối cùng sử dụng",
+  "time_spent": "Thời gian chơi",
+  "total_users": "Tổng số người dùng",
+  "hours": "tiếng",
+  "hour": "tiếng",
+  "minutes": "phút",
+  "minute": "phút",
 
-  "do_you_wish_to_hide_the_hub_or_close_all_windows": "Hide the hub or close all windows?",
-  "are_you_sure_you_want_to_sign_out": "Are you sure you want to sing out?",
+  "do_you_wish_to_hide_the_hub_or_close_all_windows": "Ẩn trung tâm hoặc đóng tất cả các cửa sổ?",
+  "are_you_sure_you_want_to_sign_out": "Bạn có chắc chắn bạn muốn đăng xuất?",
 
-  "proxy": "Proxy",
-  "proxy_desc": "Change your proxy connection settings",
+  "proxy": "proxy",
+  "proxy_desc": "Thay đổi cài đặt kết nối proxy của bạn",
 
 
-  "discord_rich_presence": "Discord Rich Presence",
-  "discord_rich_presence_desc": "Shows your activity at Discord",
+  "discord_rich_presence": "Hiện diện phong phú Discord",
+  "discord_rich_presence_desc": "Hiển thị hoạt động của bạn tại Discord",
 
   
-  "network": "Network",
-  "mobile_port": "Mobile Client Port",
-  "chat_port": "Chat Client Port",
-  "web_port": "Web Client Port",
-  "gpvp_port": "Gpvp Client Port",
-  "port_desc": "Changes port on which the client runs",
+  "network": "Mạng",
+  "mobile_port": "Cổng mô phỏng di động",
+  "chat_port": "Cổng nhắn tin",
+  "web_port": "Cổng trang web",
+  "gpvp_port": "Cổng công cụ PvP hội",
+  "port_desc": "Thay đổi cổng mà máy chạy trên đó",
 
-  "messages_notifications": "Messages notifications",
-  "quests_notifications": "Quests notifications",
-  "energy_notifications": "Energy notifications",
-  "notifications_notifications": "Notifications notifications",
+  "messages_notifications": "Thông báo tin nhắn",
+  "quests_notifications": "Thông báo nhiệm vụ",
+  "energy_notifications": "Thông báo năng lượng",
+  "notifications_notifications": "Thông báo thông báo ",
 
-  "notifications": "Notifications",
-  "close_on_exit": "Close on exit",
-  "close_on_exit_desc": "Skip the popup and just exit the App hub",
-  "hub_hidden_notification": "Hidden window notification",
-  "hub_hidden_notification_desc": "Notification when you hide App hub"
+  "notifications": "Thông báo",
+  "close_on_exit": "Đóng khi thoát",
+  "close_on_exit_desc": "Bỏ qua cửa sổ bật lên và thoát khỏi trung tâm ứng dụng",
+  "hub_hidden_notification": "Thông báo cửa sổ ứng dụng giấu đi",
+  "hub_hidden_notification_desc": "Thông báo khi giấu trung tâm ứng dụng"
 }
