@@ -19,7 +19,7 @@
 #### Includes
 
 - Notificiations for Quest points, energy, in-game messages and notifications
-- Mobile Simulation, Chat Client, Guild PvP Tool
+- Mobile Simulation, Chat Client, Guild PvP Tool, Web Client
 - Modern and elegant design
 - Auto updater included
 
@@ -48,9 +48,13 @@ Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist
 Enjoy the experience of SimpleMMO at your computer. Simple yet smooth, just the way you are used to.
 
 <b>Features</b>
+- Travel Mode (game mode built on top of Travel)
 - Keybinds
 - Temple worship timer
-- Step Mode
+- Buff timer
+- Crafting timer (Patreon)
+- World boss timer (Patreon)
+
 Better than ever to keep the authentic SimpleMMO feeling.
 
 ![Mobile Simulation](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/mobile.png)
@@ -67,6 +71,7 @@ Keep in touch with your SimpleMMO friends and enemies alike with enhanced chat o
 - Full access to chat outside of SimpleMMO
 - Overall improved ease of use
 - Better than ever to keep the authentic SimpleMMO feeling.
+
 Chat Client is everything you've wanted in SimpleMMO's chat, and now it's here.
 
 ![Chat client](https://github.com/ImY0mu/SimpleMMO-Hub-Dist/blob/master/images/chat.png)
@@ -77,11 +82,11 @@ Hug your friends and enemies alike with Guild PvP Tool.
 
 <b>Features</b>
 - Automated guild wars list
-- Mark players as banned
 - Blacklist players from your search
 - Filter
 - Additional API key support
-- Two-Part generation of targets to avoid rate limit
+- Dynamic generation of targets to avoid rate limit
+
 Make it quick and save your time.
 
 
