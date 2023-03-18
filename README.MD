@@ -48,10 +48,9 @@ Feel free to create an issue [here](https://github.com/ImY0mu/SimpleMMO-Hub-Dist
 Enjoy the experience of SimpleMMO at your computer. Simple yet smooth, just the way you are used to.
 
 <b>Features</b>
-- Travel Mode (game mode built on top of Travel)
+- Travel Mode (game mode built on top of existing Travel)
 - Keybinds
-- Temple worship timer
-- Buff timer
+- Buff timers (sprint, potion, worship)
 - Crafting timer (Patreon)
 - World boss timer (Patreon)
 
