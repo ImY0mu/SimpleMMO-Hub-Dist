@@ -195,5 +195,10 @@
   "close_on_exit_desc": "Přeskočte vyskakovací okno a ukončit aplikaci",
   "hub_hidden_notification": "Upozornění na skryté okno",
   "hub_hidden_notification_desc": "Upozornění, když skryjete App Hub"
+
+  "travel_mode": "Cestovní režim (herní režim postavený na stávajícím Cestování)",
+  "buff_timer": "Časovače buffů (sprint, lektvar, uctívání)",
+  "crafting_timer": "Časovač řemeslnictví (Patreon)",
+  "world_boss_timer": "Časovač World Bosse (Patreon)"
   
 }
