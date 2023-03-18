@@ -190,5 +190,10 @@
   "close_on_exit": "Đóng khi thoát",
   "close_on_exit_desc": "Bỏ qua cửa sổ bật lên và thoát khỏi trung tâm ứng dụng",
   "hub_hidden_notification": "Thông báo cửa sổ ứng dụng giấu đi",
-  "hub_hidden_notification_desc": "Thông báo khi giấu trung tâm ứng dụng"
+  "hub_hidden_notification_desc": "Thông báo khi giấu trung tâm ứng dụng",
+
+  "travel_mode": "Travel Mode (game mode built on top of existing Travel)",
+  "buff_timer": "Buff timers (sprint, potion, worship)",
+  "crafting_timer": "Crafting timer (Patreon)",
+  "world_boss_timer": "World Boss timer (Patreon)"
 }
