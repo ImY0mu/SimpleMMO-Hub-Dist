@@ -181,6 +181,11 @@
   "close_on_exit": "Close on exit",
   "close_on_exit_desc": "Skip the popup and just exit the App hub",
   "hub_hidden_notification": "Hidden window notification",
-  "hub_hidden_notification_desc": "Notification when you hide App hub"
+  "hub_hidden_notification_desc": "Notification when you hide App hub",
+
+  "travel_mode": "Travel Mode (game mode built on top of existing Travel)",
+  "buff_timer": "Buff timers (sprint, potion, worship)",
+  "crafting_timer": "Crafting timer (Patreon)",
+  "world_boss_timer": "World Boss timer (Patreon)"
 
 }
