@@ -195,5 +195,28 @@
   "travel_mode": "Travel Mode (game mode built on top of existing Travel)",
   "buff_timer": "Buff timers (sprint, potion, worship)",
   "crafting_timer": "Crafting timer (Patreon)",
-  "world_boss_timer": "World Boss timer (Patreon)"
+  "world_boss_timer": "World Boss timer (Patreon)",
+
+  "profile": "Profile",
+  "released_on": "Released on",
+  "requires_guild": "Requires Guild",
+  "extensions_desc": "Allow to load third-party made extensions",
+  "credits": "Credits",
+  "3rd_party_licenses_desc": "Software used and their licences",
+  "give_feedback": "Give feedback",
+  "give_feedback_desc": "Have you thought of a good idea, feature or just want to give me feedback?",
+  "help_with_translations": "Help with translations",
+  "help_with_translations_desc": "Do you want to help with translation of the App Hub?",
+
+  "available_benefits": "Available benefits",
+  "see_benefits": "See benefits",
+  "see_patreons": "See Patreons",
+
+  "starts_at": "Starts at",
+  "regional_pricing": "Regional pricing",
+  "thank_you_for_your_support": "Thank you for your support!",
+  "click_for_more_information": "Click for more information",
+  "support_the_development_and_receive_benefits": "Support the development and receive benefits",
+
+  "unable_to_check_available_download_try_again_later": "Unable to check available download. Try again later."
 }
