@@ -199,6 +199,30 @@
   "travel_mode": "Cestovní režim (herní režim postavený na stávajícím Cestování)",
   "buff_timer": "Časovače buffů (sprint, lektvar, uctívání)",
   "crafting_timer": "Časovač řemeslnictví (Patreon)",
-  "world_boss_timer": "Časovač World Bosse (Patreon)"
+  "world_boss_timer": "Časovač World Bosse (Patreon)",
+  
+
+  "profile": "Profil",
+  "released_on": "Výdáno v",
+  "requires_guild": "Vyžaduje Guildu",
+  "extensions_desc": "Povolit načítání rozšíření vytvořených třetí stranou",
+  "credits": "Poděkování",
+  "3rd_party_licenses_desc": "Používaný software a jeho licence",
+  "give_feedback": "Dát zpětnou vazbu",
+  "give_feedback_desc": "Napadl vás dobrý nápad, funkce, nebo mi jen chcete dát zpětnou vazbu?",
+  "help_with_translations": "Pomoc s překlady",
+  "help_with_translations_desc": "Chcete pomoci s překladem App Hub?",
+
+  "available_benefits": "Dostupné výhody",
+  "see_benefits": "Výhody",
+  "see_patreons": "Patroni",
+
+  "starts_at": "Začíná v",
+  "regional_pricing": "Regionální ceny",
+  "thank_you_for_your_support": "Děkuji za vaší podporu!",
+  "click_for_more_information": "Kliknutím zobrazíte další informace",
+  "support_the_development_and_receive_benefits": "Podpořte vývoj a získejte výhody",
+
+  "unable_to_check_available_download_try_again_later": "Nelze nalézt dostupnou verzi. Zkuste to znovu později."
   
 }
