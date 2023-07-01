@@ -215,5 +215,16 @@
   "click_for_more_information": "Click for more information",
   "support_the_development_and_receive_benefits": "Support the development and receive benefits",
 
-  "unable_to_check_available_download_try_again_later": "Unable to check available download. Try again later."
+  "unable_to_check_available_download_try_again_later": "Unable to check available download. Try again later.",
+
+  "trial": "Trial",
+  "try_7_day_trial": "Try 7 days trial",
+
+  "BELOW START NEW FORMAT" : "",
+  "Activate Benefits" : "Activate Benefits",
+  "Developer" : "Developer",
+  "App Hub Key" : "App Hub Key",
+  "Activate the benefits via received key" : "Activate the benefits via received key",
+  "Activate" : "Activate"
+
 }
