@@ -11,7 +11,7 @@
   "version": "Versión",
   "general": "General",
   "bugs": "Bugs",
-  "qol_improvements": "Actualizaciones de QoL",
+  "qol_improvements": "Mejoras de calidad",
   "about": "Información",
   "credits_and_3rd_party_licenses": "Créditos y licencias de terceros",
   "3rd_party_licenses": "Licencias de terceros",
@@ -32,7 +32,7 @@
   "close": "Cerrar",
   "update": "Actualizar",
   "installing": "Instalando",
-
+  
   "window_priority": "Ventana prioritaria",
   "window_priority_desc": "Mantiene la ventana por encima del resto",
   "show_friends": "Mostrar amigos",
@@ -43,18 +43,18 @@
   "beta_desc": "Requiere permiso del desarrollador",
   "ui_improvements": "Mejoras en la IU",
   "ui_improvements_desc": "Cambia algunas partes de la interfaz en el juego",
-
+  
   "points_notification_old": "Notificación de puntos de Energía y de Misión",
   "points_notification_desc_old": "Te notifica cuando cualquiera de los puntos alcance su máximo",
   "events_notification_old": "Notificación de Mensajes y Notificaciones",
   "events_notification_desc_old": "Te notifica cuando recibes un mensaje o una notificación",
-
-  "points_notification": "Check energy and quest points status",
-  "points_notification_desc": "How often should the notifications be shown",
-  "events_notification": "Check notifications and messages status",
-  "events_notification_desc": "How often should the notifications be shown",
-
-
+  
+  "points_notification": "Comprobar energía y puntos de misión",
+  "points_notification_desc": "Frecuencia de notificación",
+  "events_notification": "Comprobar notificaciones y mensajes",
+  "events_notification_desc": "Frecuencia de notificación",
+  
+  
   "level_up_on_next_loaded_page": "Carga cualquier página en el juego para subir de nivel",
   "friends": "Amigos",
   "disabled": "Desactivado",
@@ -67,7 +67,7 @@
   "stats": "Estadísticas",
   "skills": "Habilidades",
   "created_by": "Creado por",
-  "report_a_bug": "Informar de un bug",
+  "report_a_bug": "Informar de un error",
   "woodcutting": "Leñador",
   "mining": "Minería",
   "fishing": "Pesca",
@@ -75,7 +75,7 @@
   "crafting": "Artesanía",
   "event": "Evento",
   "level": "Nivel",
-  "join_now": "Unirme ahora",
+  "join_now": "Unirme",
   "statistics": "Estadísticas",
   "reputation": "Reputación",
   "dailies_unlocked": "Recompensas diarias desbloqueadas",
@@ -120,23 +120,21 @@
   "temple_timer": "Temporizador de culto en el templo",
   "step_mode": "Modo pasos",
   "mobile_client_end_line": "Mejor que nunca para mantener la verdadera esencia de SimpleMMO.",
-
-  "5_minutes" : "Cada 5 minutos",
+  
+  "5_minutes": "Cada 5 minutos",
   "10_minutes": "Cada 10 minutos",
   "30_minutes": "Cada 30 minutos",
-
-  "chat_client_desc": "Mantente en contacto con tus amigos y enemigos de SimpleMMO con opciones de chat mejoradas. In-game o trabajando, no te pierdas nada, encuentra las mejores ofertas, y alcanza tus metas más fácilmente que nunca.",
-  "player_popup": "Clic derecho en los nombres de usuario, que incluye acceso rápido a los perfiles de los jugadores",
-  "tag": "Clic izquierdo en los nombres de usuario para etiquetar fácilmente a otros jugadores",
-  "item_popup": "Clic en los objetos, para acceder a la información completa sin salir del chat",
+  
+  "chat_client_desc": "Mantente en contacto con tus amigos y enemigos de SimpleMMO con opciones de chat mejoradas. Estés jugando o trabajando, no te pierdas nada, encuentra las mejores ofertas y alcanza tus metas más fácilmente que nunca.",
+  "player_popup": "Menú de acciones con clic derecho en los nombres de usuario (acceso rápido a los perfiles de los jugadores)",
+  "tag": "Etiqueta rápidamente a otros jugadores haciendo clic izquierdo en el nombre de usuario.",
+  "item_popup": "Consulta con un clic toda la información de un objeto sin salir del chat.",
   "tag_notifications": "Notificaciones de Windows cuando te mencionan otros jugadores",
-  "scroll_auto_update": "Desactivada la actualización automática del chat mientras lees mensajes antiguos para evitar interrupciones",
+  "scroll_auto_update": "Actualización automática del chat desactivada mientras lees mensajes antiguos, para evitar interrupciones",
   "chat_access_outside": "Acceso completo al chat fuera de SimpleMMO",
   "overall_imporvements": "Mejora general de la experiencia de uso",
   "chat_client_end_line": "El cliente de Chat es todo lo que has querido en el chat de SimpleMMO, y ahora está aquí.",
-
-
-
+  
   "gpvp_client_desc": "Mantén a tus amigos cerca, y a tus enemigos aún más cerca con la Herramienta de Hermandad PvP.",
   "guild_wars": "Lista de guerras entre hermandades automatizada",
   "banned_list": "Marca a los jugadores como baneados",
@@ -146,78 +144,85 @@
   "multi_api_key_support": "Soporte adicional para claves de API",
   "partial_generation": "Generación de los objetivos en dos partes para evitar el límite de cuota",
   "gpvp_client_end_line": "Hazlo rápido y ahorra tiempo.",
-
-
+  
   "tier_one": "Rango 1",
   "tier_two": "Rango 2",
   "tier_three": "Rango 3",
-
-  "extensions": "Extensions",
-  "leaderboard": "Leaderboard",
-
-  "last_used": "Last used",
-  "time_spent": "Time spent",
-  "total_users": "Total users",
-  "hours": "hours",
-  "hour": "hour",
-  "minutes": "minutes",
-  "minute": "minute",
-
-  "do_you_wish_to_hide_the_hub_or_close_all_windows": "Hide the hub or close all windows?",
-  "are_you_sure_you_want_to_sign_out": "Are you sure you want to sing out?",
-
-  "proxy": "Proxy",
-  "proxy_desc": "Change your proxy connection settings",
-
-
-  "discord_rich_presence": "Discord Rich Presence",
-  "discord_rich_presence_desc": "Shows your activity at Discord",
-
   
-  "network": "Network",
-  "mobile_port": "Mobile Client Port",
-  "chat_port": "Chat Client Port",
-  "web_port": "Web Client Port",
-  "gpvp_port": "Gpvp Client Port",
-  "port_desc": "Changes port on which the client runs",
+  "extensions": "Extensiones",
+  "leaderboard": "Clasificación",
+  
+  "last_used": "Última vez",
+  "time_spent": "Tiempo jugado",
+  "total_users": "Total de usuarios",
+  "hours": "horas",
+  "hour": "hora",
+  "minutes": "minutos",
+  "minute": "minuto",
+  
+  "do_you_wish_to_hide_the_hub_or_close_all_windows": "¿Quieres ocultar esta ventana o cerrar todo?",
+  "are_you_sure_you_want_to_sign_out": "¿Seguro que quieres cerrar sesión?",
+  
+  "proxy": "Proxy",
+  "proxy_desc": "Cambia la configuración del proxy",
+  
+  "discord_rich_presence": "Rich Presence de Discord",
+  "discord_rich_presence_desc": "Muestra tu actividad en Discord",
+  
+  "network": "Red",
+  "mobile_port": "Puerto del cliente móvil",
+  "chat_port": "Puerto del cliente del chat",
+  "web_port": "Puerto del cliente web",
+  "gpvp_port": "Puerto del cliente Gpvp",
+  "port_desc": "Cambia el puerto del cliente",
+  
+  "messages_notifications": "Notificaciones de mensajes",
+  "quests_notifications": "Notificaciones de misiones",
+  "energy_notifications": "Notificaciones de energía",
+  "notifications_notifications": "Notificaciones de notificaciones",
+  
+  "notifications": "Notificaciones",
+  "close_on_exit": "Cerrar al salir",
+  "close_on_exit_desc": "Omitir confirmación y salir de la aplicación",
+  "hub_hidden_notification": "Notificación al ocultar aplicación",
+  "hub_hidden_notification_desc": "Te notifica cuando ocultas App Hub",
+  
+  "travel_mode": "Modo Viaje (modo de juego añadido sobre el juego base)",
+  "buff_timer": "Temporizadores de efecto (esprint, pociones, veneración)",
+  "crafting_timer": "Temporizador de fabricación (Patreon)",
+  "world_boss_timer": "Temporizador de jefe de mundo (Patreon)",
+  
+  "profile": "Perfil",
+  "released_on": "Disponible desde el",
+  "requires_guild": "Requiere hermandad",
+  "extensions_desc": "Permitir extensiones de terceros",
+  "credits": "Créditos",
+  "3rd_party_licenses_desc": "Software utilizado y licencias",
+  "give_feedback": "Dame tu opinión",
+  "give_feedback_desc": "¿Se te ha ocurrido alguna idea, propuesta o quieres darme tu opinión?",
+  "help_with_translations": "Ayuda a traducir",
+  "help_with_translations_desc": "¿Quieres ayudar a traducir App Hub?",
+  
+  "available_benefits": "Beneficios disponibles",
+  "see_benefits": "Ver beneficios",
+  "see_patreons": "Ver Mecenas",
+  
+  "starts_at": "Desde",
+  "regional_pricing": "Tarifa regional",
+  "thank_you_for_your_support": "¡Gracias por tu apoyo!",
+  "click_for_more_information": "Haz clic para más información",
+  "support_the_development_and_receive_benefits": "Apoya el desarrollo y obtén beneficios",
+  
+  "unable_to_check_available_download_try_again_later": "No se ha podido comprobar la descarga. Inténtalo de nuevo más tarde.."
+  
+  "trial": "Prueba",
+  "try_7_day_trial": "Prueba 7 días gratis",
 
-  "messages_notifications": "Messages notifications",
-  "quests_notifications": "Quests notifications",
-  "energy_notifications": "Energy notifications",
-  "notifications_notifications": "Notifications notifications",
-
-  "notifications": "Notifications",
-  "close_on_exit": "Close on exit",
-  "close_on_exit_desc": "Skip the popup and just exit the App hub",
-  "hub_hidden_notification": "Hidden window notification",
-  "hub_hidden_notification_desc": "Notification when you hide App hub",
-
-  "travel_mode": "Travel Mode (game mode built on top of existing Travel)",
-  "buff_timer": "Buff timers (sprint, potion, worship)",
-  "crafting_timer": "Crafting timer (Patreon)",
-  "world_boss_timer": "World Boss timer (Patreon)",
-
-  "profile": "Profile",
-  "released_on": "Released on",
-  "requires_guild": "Requires Guild",
-  "extensions_desc": "Allow to load third-party made extensions",
-  "credits": "Credits",
-  "3rd_party_licenses_desc": "Software used and their licences",
-  "give_feedback": "Give feedback",
-  "give_feedback_desc": "Have you thought of a good idea, feature or just want to give me feedback?",
-  "help_with_translations": "Help with translations",
-  "help_with_translations_desc": "Do you want to help with translation of the App Hub?",
-
-  "available_benefits": "Available benefits",
-  "see_benefits": "See benefits",
-  "see_patreons": "See Patreons",
-
-  "starts_at": "Starts at",
-  "regional_pricing": "Regional pricing",
-  "thank_you_for_your_support": "Thank you for your support!",
-  "click_for_more_information": "Click for more information",
-  "support_the_development_and_receive_benefits": "Support the development and receive benefits",
-
-  "unable_to_check_available_download_try_again_later": "Unable to check available download. Try again later."
+  "BELOW START NEW FORMAT" : "",
+  "Activate Benefits" : "Activar beneficios",
+  "Developer" : "Desarrollador",
+  "App Hub Key" : "App Hub Key",
+  "Activate the benefits via received key" : "Activar beneficios con una clave",
+  "Activate" : "Activar"
 
 }
